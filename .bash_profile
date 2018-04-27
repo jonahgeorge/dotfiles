@@ -1,7 +1,8 @@
-export GOPATH=$HOME/.go
-export GOROOT=/usr/local/go
-export PATH=$GOPATH/bin:$PATH
+GOPATH=$GOPATH:$HOME/go
+export GOPATH
 
-alias ls="ls -G"
+PATH=$PATH:$GOPATH/bin
+export PATH
 
-eval "$(direnv hook bash)"
+alias ls="ls --color=auto"
+alias vi="nvim"
