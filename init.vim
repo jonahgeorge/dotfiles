@@ -38,3 +38,10 @@ autocmd InsertEnter * :set number
 autocmd InsertLeave * :set relativenumber
 
 let g:EasyMotion_leader_key = '<Space>' 
+
+" Use ripgrep for Ctrl-P if installed
+if executable('rg')                                                                                                                      ? 40         }
+  set grepprg=rg\ --color=never                                                                                                          ? 41 
+  let g:ctrlp_user_command = 'rg %s --files --color=never --glob ""'                                                                     ? 42         for osetName, oset := range ctx.GetOcdOsetConfig() {
+  let g:ctrlp_use_caching = 0                                                                                                            ? 43                 osetReceivers.Osets[osetName], err = NewOsetReceiver(ctx, oset)
+endif 
