@@ -1,0 +1,11 @@
+[user]
+				name = Jonah George
+				email = jonah@jonahgeorge.com
+[color]
+				diff = auto
+				status = auto
+				branch = auto
+				pager = true
+[alias]
+				amend = commit --amend --no-edit
+

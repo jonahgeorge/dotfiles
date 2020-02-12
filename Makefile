@@ -3,6 +3,7 @@ default: bundle neovim dotfiles go-binaries vim-plugins
 dotfiles:
 	ln -s -f $(CURDIR)/bash_profile $(HOME)/.bash_profile
 	ln -s -f $(CURDIR)/bash_prompt  $(HOME)/.bash_prompt
+	ln -s -f $(CURDIR)/gitconfig    $(HOME)/.gitconfig
 
 neovim: vim-plug
 	ln -s -f $(CURDIR)/coc-settings.json $(HOME)/.config/nvim/coc-settings.json
