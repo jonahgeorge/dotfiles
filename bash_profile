@@ -17,7 +17,7 @@ alias ldd="otool -L"
 alias ls="exa"
 alias sed="gsed"
 
-[[ -r "/Users/jgeorge/.bash_prompt" ]] && . "/Users/jgeorge/.bash_prompt"
+[[ -r $HOME/.bash_prompt ]] && . "$HOME/.bash_prompt"
 
 # http://jesrui.sdf-eu.org/remember-all-your-bash-history-forever.html
 # HISTTIMEFORMAT='%F %T '

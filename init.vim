@@ -152,3 +152,5 @@ endfunction
 nnoremap <silent> <Leader>cf :exe 'CocList -I --input='.expand('<cword>').' grep'<CR>
 
 set tabstop=2
+set bg=light
+
