@@ -17,7 +17,6 @@ alias ldd="otool -L"
 alias ls="exa"
 alias sed="gsed"
 
-[[ -r $HOME/.bash_prompt ]] && . "$HOME/.bash_prompt"
 
 # http://jesrui.sdf-eu.org/remember-all-your-bash-history-forever.html
 # HISTTIMEFORMAT='%F %T '
@@ -31,3 +30,6 @@ alias sed="gsed"
 # export PROMPT_COMMAND="history -a; history -c; history -r; $PROMPT_COMMAND"
 
 [ -f ~/.fzf.bash ] && source ~/.fzf.bash
+[[ -r ~/.bash_prompt ]] && source ~/.bash_prompt
+[[ -r "/usr/local/etc/profile.d/bash_completion.sh" ]] && source "/usr/local/etc/profile.d/bash_completion.sh"
+
