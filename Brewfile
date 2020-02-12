@@ -7,4 +7,4 @@ brew "node"
 brew "nvim", args: ["--HEAD"]
 brew "asciinema"
 brew "bash-completion"
-cask "divvy"
+cask "rectangle"

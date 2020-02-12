@@ -199,6 +199,12 @@
         "options": {
           "full_name": "divvy"
         }
+      },
+      "rectangle": {
+        "version": "0.21",
+        "options": {
+          "full_name": "rectangle"
+        }
       }
     }
   },
