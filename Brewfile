@@ -5,3 +5,5 @@ brew "bat"
 brew "gnu-sed"
 brew "node"
 brew "nvim", args: ["--HEAD"]
+brew "asciinema"
+cask "divvy"
