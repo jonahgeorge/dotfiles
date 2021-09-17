@@ -2,9 +2,12 @@
 # brew "python"
 # brew "node"
 
+brew "tldr"
+brew "delta"
+brew "jq"
 brew "exa"
 brew "bat"
-brew "nvim", args: ["--HEAD"]
+brew "nvim"
 brew "asciinema"
 brew "fzf"
 brew "git"
