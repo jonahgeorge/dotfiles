@@ -10,6 +10,7 @@ brew "fzf"
 brew "git"
 brew "gh"
 brew "moreutils"
+brew "ripgrep"
 
 cask "monitorcontrol"
 cask "tomighty"
