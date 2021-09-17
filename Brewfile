@@ -1,10 +1,17 @@
-brew "go"
-brew "python"
+# brew "go"
+# brew "python"
+# brew "node"
+
 brew "exa"
 brew "bat"
-brew "gnu-sed"
-brew "node"
 brew "nvim", args: ["--HEAD"]
 brew "asciinema"
-brew "bash-completion"
-cask "rectangle"
+brew "fzf"
+brew "git"
+brew "gh"
+brew "moreutils"
+
+cask "monitorcontrol"
+cask "tomighty"
+cask "transmission"
+cask "visual-studio-code"
