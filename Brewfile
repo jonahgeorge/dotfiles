@@ -1,7 +1,7 @@
 # brew "go"
 # brew "python"
 # brew "node"
-# brew "ruby"
+# brew "rbenv"
 
 brew "tldr"
 brew "delta"
