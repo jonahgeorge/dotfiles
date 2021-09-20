@@ -1,6 +1,7 @@
 brew "gvm"
 brew "nvm"
 brew "rbenv"
+
 brew "tldr"
 brew "delta"
 brew "jq"
@@ -26,4 +27,3 @@ cask "docker"
 cask "1password"
 cask "keepingyouawake"
 cask "ngrok"
-# cask "dbeaver-community"
