@@ -1,4 +1,4 @@
-brew "gvm"
+brew "goenv"
 brew "nvm"
 brew "rbenv"
 
