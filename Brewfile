@@ -15,6 +15,7 @@ brew "gh"
 brew "moreutils"
 brew "ripgrep"
 brew "xsv"
+brew "doctl"
 
 cask "monitorcontrol"
 cask "tomighty"
