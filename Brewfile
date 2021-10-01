@@ -31,3 +31,5 @@ cask "tuple"
 cask "cleanshot"
 cask "google-drive"
 cask "azure-data-studio"
+
+cask "homebrew/cask-drivers/logitech-options"
