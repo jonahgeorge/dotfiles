@@ -36,6 +36,7 @@ cask "tuple"
 cask "cleanshot"
 cask "google-drive"
 cask "azure-data-studio"
+cask "microsoft-teams"
 
 cask "dotnet-sdk"
 cask "homebrew/cask-drivers/logitech-options"
