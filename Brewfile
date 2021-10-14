@@ -16,6 +16,7 @@ brew "git"
 brew "moreutils"
 brew "ripgrep"
 brew "xsv"
+brew "ebook-tools"
 
 brew "gh"
 brew "doctl"
