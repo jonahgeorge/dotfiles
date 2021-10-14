@@ -1,5 +1,3 @@
-tap "isen-ng/dotnet-sdk-versions"
-
 brew "goenv"
 brew "nvm"
 brew "rbenv"
@@ -37,6 +35,8 @@ cask "cleanshot"
 cask "google-drive"
 cask "azure-data-studio"
 cask "microsoft-teams"
+
+# for filename in ./*; do ebook-convert $filename ${filename%.*}.mobi; done
 cask "calibre"
 
 cask "dotnet-sdk"
