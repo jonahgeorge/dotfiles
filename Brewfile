@@ -38,6 +38,7 @@ cask "google-drive"
 cask "azure-data-studio"
 cask "microsoft-teams"
 cask "devdocs"
+cask "datagrip"
 
 # https://handmirror.app
 
