@@ -14,10 +14,12 @@ brew "git"
 brew "moreutils"
 brew "ripgrep"
 brew "xsv"
+brew "tailscale"
 
 brew "gh"
 brew "doctl"
 brew "azure-cli"
+brew "google-cloud-sdk"
 
 cask "monitorcontrol"
 cask "tomighty"
@@ -35,6 +37,9 @@ cask "cleanshot"
 cask "google-drive"
 cask "azure-data-studio"
 cask "microsoft-teams"
+cask "devdocs"
+
+# https://handmirror.app
 
 # for filename in ./*; do ebook-convert $filename ${filename%.*}.mobi; done
 cask "calibre"
