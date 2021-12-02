@@ -39,6 +39,7 @@ cask "azure-data-studio"
 cask "microsoft-teams"
 cask "devdocs"
 cask "datagrip"
+cask "slack"
 
 # https://handmirror.app
 
