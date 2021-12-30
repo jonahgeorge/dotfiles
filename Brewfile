@@ -43,6 +43,9 @@ cask "devdocs"
 cask "datagrip"
 cask "slack"
 
+cask "zwift"
+cask "minecraft"
+
 # https://handmirror.app
 
 # for filename in ./*; do ebook-convert $filename ${filename%.*}.mobi; done
