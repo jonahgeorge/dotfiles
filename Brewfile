@@ -43,8 +43,7 @@ cask "devdocs"
 cask "datagrip"
 cask "slack"
 
-cask "zwift"
-cask "minecraft"
+
 
 # https://handmirror.app
 
@@ -53,3 +52,8 @@ cask "calibre"
 
 cask "dotnet-sdk"
 cask "homebrew/cask-drivers/logitech-options"
+
+
+# Games
+cask "zwift"
+cask "minecraft"
