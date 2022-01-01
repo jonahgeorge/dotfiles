@@ -46,6 +46,7 @@ cask "homebrew/cask-versions/firefox-nightly"
 cask "calibre" # for filename in ./*; do ebook-convert $filename ${filename%.*}.mobi; done
 cask "dotnet-sdk"
 cask "homebrew/cask-drivers/logitech-options"
+cask "linear-linear"
 
 # Games
 cask "zwift"
