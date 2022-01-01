@@ -42,7 +42,7 @@ cask "microsoft-teams"
 cask "devdocs"
 cask "datagrip"
 cask "slack"
-
+cask "homebrew/cask-versions/firefox-nightly"
 
 
 # https://handmirror.app
