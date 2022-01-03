@@ -1,7 +1,7 @@
 # https://github.com/Homebrew/homebrew-bundle
 
 brew 'mas' # https://github.com/mas-cli/mas
-brew "goenv"
+brew "go" # "goenv"
 brew "nvm"
 brew "rbenv"
 brew "terraform"
