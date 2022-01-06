@@ -45,6 +45,7 @@ cask "calibre" # for filename in ./*; do ebook-convert $filename ${filename%.*}.
 cask "dotnet-sdk"
 cask "homebrew/cask-drivers/logitech-options"
 cask "linear-linear"
+cask "android-studio"
 
 # Games
 cask "zwift"
