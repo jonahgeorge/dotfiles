@@ -46,6 +46,7 @@ cask "dotnet-sdk"
 cask "homebrew/cask-drivers/logitech-options"
 cask "linear-linear"
 cask "android-studio"
+cask "postman"
 
 # Games
 cask "zwift"
