@@ -21,6 +21,7 @@ brew "gh"
 brew "doctl"
 brew "azure-cli"
 brew "google-cloud-sdk"
+brew "watch"
 
 cask "monitorcontrol"
 cask "tomighty"
