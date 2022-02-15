@@ -1,4 +1,6 @@
 # https://github.com/Homebrew/homebrew-bundle
+tap "heroku/brew"
+brew "heroku"
 
 brew 'mas' # https://github.com/mas-cli/mas
 brew "go" # "goenv"
