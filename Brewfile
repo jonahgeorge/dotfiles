@@ -1,9 +1,5 @@
-# https://github.com/Homebrew/homebrew-bundle
-tap "heroku/brew"
-brew "heroku"
-
-brew 'mas' # https://github.com/mas-cli/mas
-brew "go" # "goenv"
+brew 'mas'
+brew "go"
 brew "nvm"
 brew "rbenv"
 brew "terraform"
@@ -35,20 +31,15 @@ cask "docker"
 cask "1password"
 cask "keepingyouawake"
 cask "ngrok"
-cask "tuple"
 cask "cleanshot"
 cask "azure-data-studio"
-cask "microsoft-teams"
 cask "devdocs"
 cask "datagrip"
 cask "slack"
 cask "notion"
-cask "calibre" # for filename in ./*; do ebook-convert $filename ${filename%.*}.mobi; done
 cask "dotnet-sdk"
 cask "homebrew/cask-drivers/logitech-options"
-cask "linear-linear"
 cask "android-studio"
-cask "postman"
 
 # Games
 cask "zwift"
@@ -56,9 +47,6 @@ cask "minecraft"
 cask "steam"
 
 # App Store
-mas "Spark", id: 1176895641
-mas "Hand Mirror", id: 1502839586
-mas "Notion Web Clipper", id: 1559269364
 mas "Microsoft Remote Desktop", id: 1295203466
 mas "Tailscale", id: 1475387142
 mas "1Blocker: Ad Blocker & Privacy", id: 1365531024
