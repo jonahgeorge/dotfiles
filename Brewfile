@@ -18,7 +18,6 @@ brew "xsv"
 brew "gh"
 brew "doctl"
 brew "azure-cli"
-brew "google-cloud-sdk"
 brew "watch"
 
 cask "monitorcontrol"
@@ -40,6 +39,7 @@ cask "notion"
 cask "dotnet-sdk"
 cask "homebrew/cask-drivers/logitech-options"
 cask "android-studio"
+cask "google-cloud-sdk"
 
 # Games
 cask "zwift"
