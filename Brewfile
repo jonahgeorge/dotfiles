@@ -1,7 +1,4 @@
-brew 'mas'
-brew "go"
-brew "nvm"
-brew "rbenv"
+brew "mas"
 brew "terraform"
 brew "tldr"
 brew "delta"
@@ -16,9 +13,26 @@ brew "moreutils"
 brew "ripgrep"
 brew "xsv"
 brew "gh"
-brew "doctl"
-brew "azure-cli"
 brew "watch"
+brew "git-town"
+brew "atuin"
+brew "pre-commit"
+brew "neovim"
+brew "yt-dlp"
+brew "trippy"
+
+# Javascript
+brew "nvm"
+
+# Go
+brew "go"
+
+# Python
+brew "ruff"
+
+# Ruby
+brew "rbenv"
+brew "ruby-build"
 
 cask "monitorcontrol"
 cask "tomighty"
@@ -36,10 +50,7 @@ cask "devdocs"
 cask "datagrip"
 cask "slack"
 cask "notion"
-cask "dotnet-sdk"
 cask "homebrew/cask-drivers/logitech-options"
-cask "android-studio"
-cask "google-cloud-sdk"
 
 # Games
 cask "zwift"
