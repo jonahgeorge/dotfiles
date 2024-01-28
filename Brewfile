@@ -21,16 +21,10 @@ brew "neovim"
 brew "yt-dlp"
 brew "trippy"
 
-# Javascript
-brew "nvm"
-
-# Go
+brew "nodenv"
+brew "pyenv"
 brew "go"
-
-# Python
 brew "ruff"
-
-# Ruby
 brew "rbenv"
 brew "ruby-build"
 
@@ -54,7 +48,6 @@ cask "homebrew/cask-drivers/logitech-options"
 
 # Games
 cask "zwift"
-cask "minecraft"
 cask "steam"
 
 # App Store
