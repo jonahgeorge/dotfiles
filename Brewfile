@@ -20,6 +20,7 @@ brew "pre-commit"
 brew "neovim"
 brew "yt-dlp"
 brew "trippy"
+brew "starship"
 
 brew "nodenv"
 brew "pyenv"
