@@ -1,0 +1,11 @@
+[docker_context]
+disabled = true
+
+[gcloud]
+disabled = true
+
+[directory]
+truncate_to_repo = false
+
+[line_break]
+disabled = true
