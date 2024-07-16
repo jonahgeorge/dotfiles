@@ -21,6 +21,7 @@ brew "neovim"
 brew "yt-dlp"
 brew "trippy"
 brew "starship"
+brew "weasyprint"
 
 brew "nodenv"
 brew "pyenv"
