@@ -14,7 +14,8 @@ export ANDROID_HOME="$HOME/Library/Android/sdk"
 export ANDROID_SDK_ROOT="$HOME/Library/Android/sdk"
 export ANDROID_AVD_HOME="$HOME/.android/avd"
 
-export EDITOR="code"
+export EDITOR="vim"
+export BUNDLER_EDITOR="code"
 
 eval "$(rbenv init - zsh)"
 eval "$(atuin init zsh)"
