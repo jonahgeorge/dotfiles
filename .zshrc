@@ -24,3 +24,4 @@ eval "$(nodenv init -)"
 eval "$(starship init zsh)"
 
 source "$HOME/.docker/init-zsh.sh" || true # Added by Docker Desktop
+source /opt/homebrew/opt/zinit/zinit.zsh
