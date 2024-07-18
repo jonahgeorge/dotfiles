@@ -2,8 +2,8 @@ export PATH="$PATH:$(yarn global bin)"
 export PATH="$PATH:$HOME/Android/Sdk/platform-tools"
 export PATH="$PATH:$HOME/Android/Sdk/emulator"
 export PATH="$PATH:$HOME/.local/bin"
-export PATH="$PATH:/opt/homebrew/opt/llvm/bin"
-export PATH="$PATH:/opt/homebrew/opt/libxslt/bin"
+export PATH="$PATH:$(brew prefix llvm)/bin"
+export PATH="$PATH:$(brew prefix libxslt)/bin"
 export PATH="$PATH:$HOME/go/bin"
 export PATH="$PATH:$HOME/bin"
 export PATH="$PATH:$HOME/.cargo/bin"
@@ -24,4 +24,4 @@ eval "$(nodenv init -)"
 eval "$(starship init zsh)"
 
 source "$HOME/.docker/init-zsh.sh" || true # Added by Docker Desktop
-source /opt/homebrew/opt/zinit/zinit.zsh
+source "$(brew prefix zinit)/zinit.zsh"
