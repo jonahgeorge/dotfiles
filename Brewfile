@@ -22,6 +22,7 @@ brew "yt-dlp"
 brew "trippy"
 brew "starship"
 brew "weasyprint"
+brew "zinit"
 
 brew "nodenv"
 brew "pyenv"
