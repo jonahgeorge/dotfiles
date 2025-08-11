@@ -44,6 +44,7 @@ cask "datagrip"
 cask "slack"
 cask "notion"
 cask "homebrew/cask-drivers/logitech-options"
+cask "linearmouse"
 
 # Games
 cask "zwift"
