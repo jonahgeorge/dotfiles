@@ -18,6 +18,7 @@ brew "yt-dlp"
 brew "starship"
 brew "weasyprint"
 brew "zinit"
+brew "visidata"
 
 brew "nodenv"
 brew "pyenv"
