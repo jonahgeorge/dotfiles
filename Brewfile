@@ -18,7 +18,6 @@ brew "yt-dlp"
 brew "starship"
 brew "weasyprint"
 brew "zinit"
-brew "zola"
 
 brew "nodenv"
 brew "pyenv"
