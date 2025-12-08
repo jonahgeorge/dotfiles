@@ -1,25 +1,25 @@
 brew "mas"
-brew "tldr"
+
 brew "delta"
-brew "jq"
-brew "nvim"
 brew "asciinema"
 brew "fzf"
 brew "moreutils"
-brew "xsv"
 brew "watch"
-brew "neovim"
 brew "starship"
 brew "weasyprint"
 brew "zinit"
 
 # Data
+brew "xsv"
+brew "jq"
 brew "visidata"
 brew "duckdb"
 cask "clickhouse"
 cask "datagrip"
 
 # Programming
+brew "tldr"
+brew "neovim"
 brew "git"
 brew "terraform"
 brew "nodenv"
@@ -45,7 +45,6 @@ cask "keepingyouawake"
 cask "cleanshot"
 cask "slack"
 cask "notion"
-cask "homebrew/cask-drivers/logitech-options"
 cask "linearmouse"
 
 # Entertainment
