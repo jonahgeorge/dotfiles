@@ -32,6 +32,7 @@ brew "anomalyco/tap/opencode"
 cask "lm-studio"
 cask "zed"
 cask "postgres-app"
+cask "claude-code"
 
 # Productivity
 brew "atuin"
