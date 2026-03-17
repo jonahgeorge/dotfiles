@@ -26,11 +26,12 @@ brew "mise"
 brew "go"
 brew "gh"
 cask "visual-studio-code"
-cask "docker"
+cask "docker-desktop"
 cask "ngrok"
 brew "anomalyco/tap/opencode"
 cask "lm-studio"
 cask "zed"
+cask "postgres-app"
 
 # Productivity
 brew "atuin"
