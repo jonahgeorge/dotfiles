@@ -28,6 +28,9 @@ brew "gh"
 cask "visual-studio-code"
 cask "docker"
 cask "ngrok"
+brew "anomalyco/tap/opencode"
+cask "lm-studio"
+cask "zed"
 
 # Productivity
 brew "atuin"
