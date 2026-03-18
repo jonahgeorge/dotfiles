@@ -33,6 +33,7 @@ cask "lm-studio"
 cask "zed"
 cask "postgres-app"
 cask "claude-code"
+cask "linear-linear"
 
 # Productivity
 brew "atuin"
